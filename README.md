@@ -20,7 +20,7 @@ How to play:
   - You win when all O's are replaced by X's
   
 a Exemple of map file content (map2):
-\#\#\#\#\#\#\#\#\#
+\#\#\#\#\#\#\#\#\#\n
 \#O   PO\#\#
 \#   X\# \#\#
 \# \#  XO \#
