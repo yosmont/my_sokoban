@@ -20,7 +20,6 @@ How to play:
   - You win when all O's are replaced by X's
   
 a Exemple with map2:
-
 The display in my_sokoban:
 ![alt text](./my_sokoban_map2.png)
 
