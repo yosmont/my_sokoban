@@ -20,13 +20,21 @@ How to play:
   - You win when all O's are replaced by X's
   
 a Exemple of map file content (map2):
-\#\#\#\#\#\#\#\#\#\n
-\#O   PO\#\#
-\#   X\# \#\#
-\# \#  XO \#
-\#    X\# \#
-\#\#\#\#\#   \#
+
 \#\#\#\#\#\#\#\#\#
+
+\#O   PO\#\#
+
+\#   X\# \#\#
+
+\# \#  XO \#
+
+\#    X\# \#
+
+\#\#\#\#\#   \#
+
+\#\#\#\#\#\#\#\#\#
+
 
 The display in my_sokoban:
 ![alt text](./my_sokoban_map2.png)
