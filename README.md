@@ -4,7 +4,7 @@ Epitech PSU_my_sokoban_2018 project
 The goal was to implement sokoban game using ncurse librairy.
 
 Usage: ./my_sokoban map_path
-or: ./bonus_bin map_path
+Or: ./bonus_bin map_path
 
 Maps should contains only:
   - X: movable blocks
