@@ -19,22 +19,7 @@ How to play:
   - a: in bonus_bin that quit the game
   - You win when all O's are replaced by X's
   
-a Exemple of map file content (map2):
-
-\#\#\#\#\#\#\#\#\#
-
-\#O   PO\#\#
-
-\#   X\# \#\#
-
-\# \#  XO \#
-
-\#    X\# \#
-
-\#\#\#\#\#   \#
-
-\#\#\#\#\#\#\#\#\#
-
+a Exemple with map2:
 
 The display in my_sokoban:
 ![alt text](./my_sokoban_map2.png)
